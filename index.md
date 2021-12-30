@@ -22,8 +22,8 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
-  href: "/about"
+  text: Kontakt
+  href: "/contact"
 show_news: true
 show_staff: false
 menu:
