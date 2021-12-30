@@ -1,5 +1,5 @@
 ---
-title: MSM
+title: Home
 banner_image: "/uploads/2021/12/30/budynek_nr_13_23_32_ul_poranna_wroclaw_39968.jpg"
 layout: landing-page
 heading: Międzyzakładowa spółdzielnia mieszkaniowa
